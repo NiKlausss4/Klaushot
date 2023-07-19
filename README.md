@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Klaushot
+- 👋 Hi, I’m Klaus
 
 
 <!---
